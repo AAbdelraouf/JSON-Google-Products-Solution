@@ -188,7 +188,7 @@ var alyssaData = {
     ]
    }
   },
-
+  
   {
    "kind": "shopping#product",
    "id": "tag:google.com,2010:shopping/products/3359942/11738086986303167840",
@@ -1283,7 +1283,7 @@ var alyssaData = {
      }
     ],
 
-    "images": [
+   "images": [
      {
       "link": "http://www.buydig.com/assets/product/imagesnw250/BB1FC769518B4C75B3CED99F74F123CC.jpg",
       "status": "available"
