@@ -10,7 +10,6 @@ var alyssaData = {
  "currentItemCount": 25,
  "requestId": "0CPCXpoKU8bcCFeohRAodikIAAA",
  
- 
  "items": 
  [
   {
